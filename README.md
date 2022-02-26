@@ -10,5 +10,5 @@ $ ./wordle
 For Windows
 ```cmd
 > gcc wordle.c -o wordle.exe
-> ./wordle.exe
+> wordle.exe
 ```
